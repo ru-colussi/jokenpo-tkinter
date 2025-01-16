@@ -14,7 +14,7 @@ Este é um jogo de **Jokenpô (Pedra, Papel e Tesoura)** desenvolvido em Python 
 - **Pillow**: Para manipulação e redimensionamento de imagens.
 
 ## 📂 Estrutura do Projeto
-
+```bash
 jokenpo-tkinter/ │ 
 ├── images/ # Imagens do jogo (pedra, papel, tesoura) 
 │  ├── pedra.png 
@@ -23,7 +23,7 @@ jokenpo-tkinter/ │
 ├── jokenpo.py # Código principal do jogo 
 ├── requirements.txt # Dependências do projeto 
 └── README.md # Documentação do projeto
-
+```
 
 ## 🚀 Como Executar
 1. Clone o repositório:
