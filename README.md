@@ -16,7 +16,6 @@ Este é um jogo de **Jokenpô (Pedra, Papel e Tesoura)** desenvolvido em Python 
 ## 📂 Estrutura do Projeto
 ```bash
 jokenpo-tkinter/
-|
 ├── images/ # Imagens do jogo (pedra, papel, tesoura) 
 │  ├── pedra.png 
 │  ├── papel.png 
